@@ -1,4 +1,4 @@
-# szoftverek_adatbazisok_a_szerzoi_jogi_vedelemben_2026.
+# 05-szerzoi-jog
 
 
 ## Dia 1 — Szellemi alkotások joga
@@ -40,7 +40,28 @@
 - Művészeti stílus
 - Alkotás színvonalára vonatkozó értékítélet
 
+![Dia 6 kép](images/05-szerzoi-jog/slide-06-001.jpg)
+
+
+![Dia 6 kép](images/05-szerzoi-jog/slide-06-002.jpg)
+
+
+![Dia 6 kép](images/05-szerzoi-jog/slide-06-003.jpg)
+
+
+![Dia 6 kép](images/05-szerzoi-jog/slide-06-004.jpg)
+
+
 ## Dia 7 — Néhány példa
+
+
+![Dia 7 kép](images/05-szerzoi-jog/slide-07-005.png)
+
+
+![Dia 7 kép](images/05-szerzoi-jog/slide-07-006.png)
+
+
+![Dia 7 kép](images/05-szerzoi-jog/slide-07-007.png)
 
 
 ## Dia 8 — kizárások
@@ -53,6 +74,9 @@
 - 3. Jogszabályok, közjogi szervezetszabályozó eszközök, a bírósági vagy hatósági határozatok, a hatósági vagy más hivatalos közlemények és ügyiratok, valamint más hasonló rendelkezések
 - - társadalmi érdekből kizárt (információhoz való hozzáférés)
 - 4. Sajtóközlemények alapjául szolgáló hírek, tények
+
+![Dia 8 kép](images/05-szerzoi-jog/slide-08-008.png)
+
 
 ## Dia 9 — A funkcionális alkotások védelmének fejlődése
 
@@ -89,13 +113,25 @@
 ## Dia 13
 
 
+![Dia 13 kép](images/05-szerzoi-jog/slide-13-009.jpg)
+
+
 ## Dia 14
+
+
+![Dia 14 kép](images/05-szerzoi-jog/slide-14-010.jpg)
 
 
 ## Dia 15
 
 
+![Dia 15 kép](images/05-szerzoi-jog/slide-15-011.jpg)
+
+
 ## Dia 16
+
+
+![Dia 16 kép](images/05-szerzoi-jog/slide-16-012.jpg)
 
 
 ## Dia 17 — A szoftver és az adatbázis jogi védelmének eszköztára (áttekintés)
@@ -276,7 +312,13 @@
 ## Dia 43
 
 
+![Dia 43 kép](images/05-szerzoi-jog/slide-43-013.jpg)
+
+
 ## Dia 44
+
+
+![Dia 44 kép](images/05-szerzoi-jog/slide-44-014.jpg)
 
 
 ## Dia 45 — Szerzői jogi védelem level2/1.
@@ -288,7 +330,16 @@
 ## Dia 46
 
 
+![Dia 46 kép](images/05-szerzoi-jog/slide-46-015.jpg)
+
+
 ## Dia 47
+
+
+![Dia 47 kép](images/05-szerzoi-jog/slide-47-016.jpg)
+
+
+![Dia 47 kép](images/05-szerzoi-jog/slide-47-017.jpg)
 
 
 ## Dia 48 — Szerzői jogi védelem level 2/2.

@@ -1,4 +1,4 @@
-# Alapjogok_Jogi_alapismeretek_VIK_2026_tavasz
+# 02-alapjogok
 
 
 ## Dia 1 — Jogi alapismeretek
@@ -66,6 +66,9 @@
 - Egyezmény az Emberi Jogok és Alapvető Szabadságjogok Védelméről
 - (Emberi Jogi Európai Egyezménye) (1950) - Európa Tanács
 
+![Dia 8 kép](images/02-alapjogok/slide-08-001.png)
+
+
 ## Dia 9 — Emberi jogok érvényesítésének nemzetközi fóruma Európában  - Európai Emberi Jogi Bíróság (Strasbourg)
 
 - Ítélkezés alapja: az Emberi Jogok Európai Egyezménye.
@@ -78,6 +81,9 @@
 - Nem kötelezheti az országokat a szabály megváltoztatására, ahogy nem változtathatja meg a hazai bíróságok ítéleteit sem.
 - Legfontosabb eszköze a nyilvánosság
 - A tagállami jogalkalmazás, bíróségi joggyakorlat alakítása
+
+![Dia 9 kép](images/02-alapjogok/slide-09-002.png)
+
 
 ## Dia 10
 
@@ -172,6 +178,15 @@
 - A véleményszabadságnak kitüntetett szerepe miatt csak kevés joggal szemben kell engednie.
 - „Alapvető jog más alapvető jog érvényesülése vagy valamely alkotmányos érték védelme érdekében, a feltétlenül szükséges mértékben, az elérni kívánt céllal arányosan, az alapvető jog lényeges tartalmának tiszteletben tartásával korlátozható.” (Alaptörvény)
 
+![Dia 21 kép](images/02-alapjogok/slide-21-003.png)
+
+
+![Dia 21 kép](images/02-alapjogok/slide-21-004.png)
+
+
+![Dia 21 kép](images/02-alapjogok/slide-21-005.png)
+
+
 ## Dia 22
 
 - A véleményszabadság korlátozása
@@ -209,6 +224,9 @@
 - Jogeset
 - Influenszerek Facebook oldalain megjelenő reklámok, szponzorált üzenetek.
 - Korábban meglévő jogszabály alkalmazása a digitális térben megjelenő új kereskedelmi gyakorlatra. Gazdasági Versenyhivatal joggyakorlata.
+
+![Dia 26 kép](images/02-alapjogok/slide-26-006.jpg)
+
 - 2016-ban 3 versenyfelügyeleti eljárást (VJ/110/2016., VJ/111/2016., VJ/112/2016.) is indított „influencer”-ek (véleményvezérek) Facebook, illetve Instagram oldalain megjelent posztok kapcsán. Valószínűsíthető volt, hogy az „influencer”-ek ellenszolgáltatásban részesültek a posztokért, azonban ezt nem közölték az influenszerek.
 
 ## Dia 27
@@ -224,6 +242,9 @@
 ## Dia 28
 
 
+![Dia 28 kép](images/02-alapjogok/slide-28-007.png)
+
+
 ## Dia 29
 
 - Meta hirdetési szabályzata
@@ -232,6 +253,9 @@
 - Tartalmaz-e szabályt a Meta hirdetési szabályzata a termékmegjelenítés jelzésére?
 - Milyen termékeket nem reklámozhatnak a felhasználók
 - (pl. influenszerek)?
+
+![Dia 29 kép](images/02-alapjogok/slide-29-008.png)
+
 
 ## Dia 30
 
@@ -257,15 +281,27 @@
 
 ## Dia 34
 
+
+![Dia 34 kép](images/02-alapjogok/slide-34-009.png)
+
 - Forrás: https://rankingdigitalrights.org/index2020
 
 ## Dia 35
+
+
+![Dia 35 kép](images/02-alapjogok/slide-35-010.png)
 
 - RDR 2025 – 14 nagyvállalat 43 platformjának értékelése
 
 ## Dia 36
 
+
+![Dia 36 kép](images/02-alapjogok/slide-36-011.png)
+
 - 2022 Big Tech RDR Index
+
+![Dia 36 kép](images/02-alapjogok/slide-36-012.png)
+
 - 2025 Big Tech RDR Index
 
 ## Dia 37

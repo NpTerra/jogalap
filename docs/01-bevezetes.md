@@ -1,4 +1,4 @@
-# bevezetes_a_jog_szerepe_az_informacios_tarsadalomban20260220
+# 01-bevezetes
 
 
 ## Dia 1
@@ -24,6 +24,9 @@
 ## Dia 3 — MENETREND
 
 
+![Dia 3 kép](images/01-bevezetes/slide-03-001.png)
+
+
 | Jogi alapismeretek - BMEGT55A405, péntek 10-13Három teremben párhuzamosan, átvetítéssel - IB028+IB027+IE007 |  |  |  |
 | --- | --- | --- | --- |
 | Hét | Témakörök | Előadó | Dátum |
@@ -46,6 +49,9 @@
 
 
 ## Dia 4 — Információs társadalom?
+
+
+![Dia 4 kép](images/01-bevezetes/slide-04-002.png)
 
 
 ## Dia 5 — INFORMÁCIÓS TÁRSADALOM
@@ -93,6 +99,9 @@
 ## Dia 9 — Long tail
 
 
+![Dia 9 kép](images/01-bevezetes/slide-09-003.png)
+
+
 ## Dia 10 — AKTUÁLIS GAZDASÁGI JELENSÉGEK ÉS TRENDEK
 
 - Figyelemgazdaság
@@ -109,6 +118,9 @@
 ## Dia 11 — Figyelemgazdaság
 
 
+![Dia 11 kép](images/01-bevezetes/slide-11-004.png)
+
+
 **Előadói jegyzet:**
 > https://www.hwsw.hu/hirek/57593/attention-economy-figyelemgazdasag-eroforras-termekfilozofia.html
 
@@ -123,7 +135,16 @@
 - tömeges
 - szakértelemhez és más erőforrásokhoz (például tőkéhez, számítási kapacitáshoz stb.) juthatnak hozzá a vállalkozások.
 
+![Dia 12 kép](images/01-bevezetes/slide-12-005.jpg)
+
+
+![Dia 12 kép](images/01-bevezetes/slide-12-006.jpg)
+
+
 ## Dia 13 — Crowd-sourcing
+
+
+![Dia 13 kép](images/01-bevezetes/slide-13-007.jpg)
 
 
 **Előadói jegyzet:**
@@ -155,6 +176,12 @@
 
 ## Dia 16 — A SHARING ECONOMY
 
+
+![Dia 16 kép](images/01-bevezetes/slide-16-008.png)
+
+
+![Dia 16 kép](images/01-bevezetes/slide-16-009.png)
+
 - Sharing economy: olyan gazdasági és 	társadalmi  aktivitás  áll,  amely  online 	tranzakciókon  alapul,  és  segítségével 	megosztják  az  emberek  saját  vagy 	mások javait, szolgáltatásait.
 - (Uber)
 - vagy
@@ -175,6 +202,9 @@
 - jogszabályok, a szállodai előírások vagy a taxiengedélyek közötti konfliktusok kezelése.
 
 ## Dia 18
+
+
+![Dia 18 kép](images/01-bevezetes/slide-18-010.jpg)
 
 
 ## Dia 19 — ONLINE PLATFORMOK
@@ -204,6 +234,9 @@
 - gyakorolnak felforgató hatást (lásd sharing economy),
 - Állam az államban viselkedés
 - Súlyosan érintik az adatok védelmének kérdését
+
+![Dia 21 kép](images/01-bevezetes/slide-21-011.jpg)
+
 
 ## Dia 22 — AZ ÚJ TECHNOLÓGIÁK ÁRNYOLDALA
 
@@ -250,6 +283,9 @@
 - a technológiának valamilyen olyan jellemzője van, amely kihívást jelent a jogi szabályozás szempontjából (például feketedoboz hatás, pszeudoanonimitás stb.).
 - Kockázatok megfelelő felmérése és kezelése
 - Ex ante vs. ex post szabályozás
+
+![Dia 26 kép](images/01-bevezetes/slide-26-012.jpg)
+
 
 ## Dia 27 — SZABÁLYOZÁSI KIHÍVÁSOK
 

@@ -1,7 +1,10 @@
-# E-kereskedelem_(VIK)kurzus_BVF
+# 07-e-kereskedelem
 
 
 ## Dia 1
+
+
+![Dia 1 kép](images/07-e-kereskedelem/slide-01-001.png)
 
 - Dr. Bárány Viktória Fanny
 - barany.viktoria.fanny@gtk.bme.hu
@@ -9,6 +12,9 @@
 - Elektronikus kereskedelem  DSA
 
 ## Dia 2
+
+
+![Dia 2 kép](images/07-e-kereskedelem/slide-02-002.png)
 
 
 | https://docs.google.com/forms/d/e/1FAIpQLSfGWUJnctO48_fP5FHRw779wRaiBduF1Yit3TNdUusGB5fVjA/viewform?usp=publish-editor |
@@ -19,7 +25,13 @@
 
 - Forrás: https://www.pwc.com/hu/hu/sajtoszoba/assets/pwc-dkk-2025-II.pdf
 
+![Dia 3 kép](images/07-e-kereskedelem/slide-03-003.png)
+
+
 ## Dia 4
+
+
+![Dia 4 kép](images/07-e-kereskedelem/slide-04-004.png)
 
 - Forrás: https://www.pwc.com/hu/hu/sajtoszoba/assets/pwc-dksz_dkk-2024.pdf
 
@@ -30,6 +42,9 @@
 ## Dia 5
 
 - Forrás: https://www.pwc.com/hu/hu/sajtoszoba/assets/pwc-dkk-2025-II.pdf
+
+![Dia 5 kép](images/07-e-kereskedelem/slide-05-005.png)
+
 - Az e-kereskedelem alakulását meghatározó legfontosabb tényezők 2025-ben
 
 **Előadói jegyzet:**
@@ -37,6 +52,9 @@
 > A vásárlás során a vevő nem azonnal fizet a termékekért és szolgáltatásokért, hanem a fizetést több (jellemzően 3-4) részletre osztja és azokat meghatározott időközönként (jellemzően havonta) teljesíti.
 
 ## Dia 6
+
+
+![Dia 6 kép](images/07-e-kereskedelem/slide-06-006.png)
 
 - Forrás: https://www.pwc.com/hu/hu/sajtoszoba/assets/pwc-dksz_dkk-2024.pdf
 
@@ -175,17 +193,29 @@
 
 ## Dia 13
 
+
+![Dia 13 kép](images/07-e-kereskedelem/slide-01-001.png)
+
 - DSA
 
 ## Dia 14
 
 - DSA és DMA rendeletek
 - Az online közvetítőket és piactereket szabályozza (piacterek, közösségi hálózatok, tartalommegosztó platformok, alkalmazás áruházak, online utazási és szállásplatformok)
+
+![Dia 14 kép](images/07-e-kereskedelem/slide-14-007.png)
+
 - Cél:  biztonságosabb digitális tér létrehozása, amelyben a digitális szolgáltatások valamennyi felhasználójának alapvető jogai védelemben részesülnek
 
 ## Dia 15
 
 - DSA és DMA rendeletek
+
+![Dia 15 kép](images/07-e-kereskedelem/slide-15-008.png)
+
+
+![Dia 15 kép](images/07-e-kereskedelem/slide-15-009.png)
+
 
 ## Dia 16
 
@@ -199,6 +229,9 @@
 - az eladókat és fogyasztókat összefogó online platformok: online piacterek, alkalmazásáruházak, közösségi gazdasági platformok és közösségimédia-platformok.
 - Tárhelyszolgáltatások: felhőalapú számítástechnikai és webhosting szolgáltatások.
 - közvetítő szolgáltatások: internet-hozzáférési szolgáltatást nyújtó szolgáltatók, doménnév-regisztrátorok
+
+![Dia 17 kép](images/07-e-kereskedelem/slide-17-010.png)
+
 - Kép forrása: https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_hu
 
 ## Dia 18
@@ -269,7 +302,67 @@
 
 ## Dia 23
 
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-011.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-012.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-013.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-014.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-015.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-016.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-017.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-018.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-019.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-020.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-021.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-022.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-023.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-024.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-025.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-026.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-027.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-028.jpg)
+
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-029.jpg)
+
 - VLOP és VLOSE teljes lista: https://digital-strategy.ec.europa.eu/en/policies/list-designated-vlops-and-vloses
+
+![Dia 23 kép](images/07-e-kereskedelem/slide-23-030.png)
+
 
 ## Dia 24
 
@@ -280,6 +373,9 @@
 - Illetékes hatóságok és joghatóság megválasztása
 - Digitális szolgáltatási koordinátor: A tagállamok a DSA alkalmazásáért és érvényesítéséért felelős illetékes hatóságo(ka)t jelölnek ki, amelyek közül az egyiket digitális szolgáltatási koordinátornak nevezik ki. Magyarországon ezt a feladatot a Nemzeti Média- és Hírközlési Hatóság (NMHH) látja el. A digitális szolgáltatási koordinátorok vizsgálati hatáskörökkel rendelkeznek helyszíni vizsgálatokat folytathatnak le elrendelhetik a jogsértés beszüntetését, bírságot szabhatnak ki és ideiglenes intézkedéseket fogadhatnak el.
 - Joghatóság: az üzleti tevékenységének fő helye szerinti tagállam rendelkezik. Amely szolgáltató nem rendelkezik székhellyel az Unióban, de ott szolgáltatásokat kínál, az a jogi képviselő lakóhely vagy székhely tagállamának joghatósága alá tartozik.
+
+![Dia 24 kép](images/07-e-kereskedelem/slide-24-031.png)
+
 
 ## Dia 25
 
@@ -298,6 +394,9 @@
 - Kényszerítő, ismétlődő napi bírság
 
 ## Dia 26
+
+
+![Dia 26 kép](images/07-e-kereskedelem/slide-01-001.png)
 
 - Kahoot
 
@@ -333,6 +432,18 @@
 - Online keresőprogram-szolgáltató - searching
 - információk megtalálását elősegítő segédeszközöket biztosít az igénybe vevő számára
 - olyan szolgáltatás, amely a szolgáltatás igénybe vevője által küldött információnak hírközlő hálózaton keresztül történő továbbításából vagy a hírközlő hálózathoz való hozzáférés biztosításából áll
+
+![Dia 29 kép](images/07-e-kereskedelem/slide-29-032.jpg)
+
+
+![Dia 29 kép](images/07-e-kereskedelem/slide-29-033.jpg)
+
+
+![Dia 29 kép](images/07-e-kereskedelem/slide-23-013.jpg)
+
+
+![Dia 29 kép](images/07-e-kereskedelem/slide-29-034.jpg)
+
 
 ## Dia 30
 
@@ -371,6 +482,9 @@
 
 ## Dia 34
 
+
+![Dia 34 kép](images/07-e-kereskedelem/slide-34-035.png)
+
 - Szolgáltatói adatszolgáltatás
 - Kötelező adatszolgáltatás (azon adatok, amiknek közvetlenül, folyamatosan és könnyen elérhetőnek kell lenniük a szolgáltatás honlapján)
 - Név, székhely, telephely, elérhetőség (e-mail!)
@@ -389,6 +503,9 @@
 - a szerződéskötés lehetséges nyelveiről
 - a szolgáltatási tevékenységére vonatkozó magatartási kódexről
 - A szolgáltató köteles az igénybe vevő megrendelésének megérkezését az igénybe vevő felé elektronikus úton haladéktalanul (max. 48 órán belül) visszaigazolni. Ha ez nem történik meg, mentesül az igénybe vevő mentesül az ajánlati kötöttség/szerződéses kötelezettség alól.
+
+![Dia 35 kép](images/07-e-kereskedelem/slide-35-036.jpg)
+
 
 ## Dia 36
 
@@ -412,15 +529,27 @@
 
 ## Dia 39
 
+
+![Dia 39 kép](images/07-e-kereskedelem/slide-39-037.png)
+
 - Értesítési-eltávolítási eljárás I.
 
 ## Dia 40
+
+
+![Dia 40 kép](images/07-e-kereskedelem/slide-40-038.png)
 
 - Értesítési-eltávolítási eljárás II.
 
 ## Dia 41
 
+
+![Dia 41 kép](images/07-e-kereskedelem/slide-41-039.png)
+
 - Értesítési-eltávolítási eljárás III.
+
+![Dia 41 kép](images/07-e-kereskedelem/slide-41-040.png)
+
 - Értesítési-eltávolítási eljárás I-III. forrás: https://www.iszt.hu/app/uploads/2020/06/ertesit-eltavolit-folyamat.pdf
 
 ## Dia 42
@@ -448,3 +577,6 @@
 ## Dia 44
 
 - Köszönöm szépen a figyelmet.
+
+![Dia 44 kép](images/07-e-kereskedelem/slide-44-041.png)
+

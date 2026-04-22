@@ -1,7 +1,10 @@
-# PT - VIKAdatvédelem26
+# 03-adatvedelem
 
 
 ## Dia 1 — Adatvédelem
+
+
+![Dia 1 kép](images/03-adatvedelem/slide-01-001.jpg)
 
 - dr. Puskás Tamás
 - BME GTK Üzleti Jog Tanszék
@@ -13,6 +16,9 @@
 - Szükségessé vált a magánszféra védelme eszközrendszerének kiegészítése: személyes adatok védelme.
 - a személyes adatok védelméhez való jognak „az a tartalma, hogy mindenki maga rendelkezik személyes adatainak feltárásáról és felhasználásáról. Személyes adatot felvenni és felhasználni tehát általában csakis az érintett beleegyezésével szabad; mindenki számára követhetővé és ellenőrizhetővé kell tenni az adatfeldolgozás egész útját, vagyis mindenkinek joga van tudni, ki, hol, mikor, milyen célra használja fel az ő személyes adatát. Kivételesen törvény elrendelheti személyes adat kötelező kiszolgáltatását, és előírhatja a felhasználás módját is. Az ilyen törvény korlátozza az információs önrendelkezés alapvető jogát […]” [15/1991. (IV. 13.) AB hat.]
 
+![Dia 2 kép](images/03-adatvedelem/slide-02-002.png)
+
+
 ## Dia 3 — Digitális forradalom
 
 - digitális forradalom miatt átalakultak a mindennapok: az információs társadalom kialakulásával új kihívások jelentek meg (például adatlopások, hackelések, adathalászat, stb.)
@@ -21,6 +27,9 @@
 - Big Data
 - újfajta szolgáltatások, termékek jelentek meg a piacon (pl. felhőszolgáltatás, közösségi média)
 - data dominant business: (például Meta) olyan cégek, amelyek a személyes adatok és egyéb adatok kezelésével, marketinggel önmagában gazdasági tevékenységük során profitot termelnek.
+
+![Dia 3 kép](images/03-adatvedelem/slide-03-003.jpg)
+
 
 ## Dia 4 — Személyre szabott hirdetések
 
@@ -31,6 +40,9 @@
 - Keresési előzmények vagy a csoport tendenciák alapján ajánlások
 - Gazdasági előnyökkel jár pl. kevesebb hirdetési költség, nagyobb hatékonyság
 - Hátrány pl. buborékhatás
+
+![Dia 4 kép](images/03-adatvedelem/slide-04-004.png)
+
 
 ## Dia 5 — Az adatvédelmi jog története
 
@@ -43,6 +55,9 @@
 
 
 ## Dia 7 — Adatvédelmi jog helye a jogrendszerben
+
+
+![Dia 7 kép](images/03-adatvedelem/slide-07-005.jpg)
 
 - Alaptörvény VI. cikk
 - (1) Mindenkinek joga van ahhoz, hogy magán- és családi életét, otthonát, kapcsolattartását és jó hírnevét tiszteletben tartsák. A véleménynyilvánítás szabadsága és a gyülekezési jog gyakorlása nem járhat mások magán- és családi életének, valamint otthonának sérelmével.
@@ -70,6 +85,9 @@
 - Személyes adattal visszaélés 219. § (1) *  Aki a személyes adatok védelméről vagy kezeléséről szóló törvényi vagy az Európai Unió kötelező jogi aktusában meghatározott rendelkezések megszegésével haszonszerzési célból vagy jelentős érdeksérelmet okozva a) jogosulatlanul vagy a céltól eltérően személyes adatot kezel, vagy b) az adatok biztonságát szolgáló intézkedést elmulasztja, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.Közérdekű adattal visszaélés 220. § (1) Aki a közérdekű adatok nyilvánosságáról szóló törvényi rendelkezések megszegésével a) közérdekű adatot az adatigénylő elől eltitkol, vagy azt követően, hogy a bíróság jogerősen a közérdekű adat közlésére kötelezte, tájékoztatási kötelezettségének nem tesz eleget, b) közérdekű adatot hozzáférhetetlenné tesz vagy meghamisít, illetve c) hamis vagy hamisított közérdekű adatot hozzáférhetővé vagy közzé tesz, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 ## Dia 10 — GDPR jelentősége
+
+
+![Dia 10 kép](images/03-adatvedelem/slide-10-006.jpg)
 
 - a rendelet közvetlen hatállyal alkalmazandó szemben a korábbi EU Irányelvvel, ami implementációt, tagállami jogba való átültetést igényelt
 - extraterritoriális hatály
@@ -159,6 +177,12 @@
 
 ## Dia 21
 
+
+![Dia 21 kép](images/03-adatvedelem/slide-21-007.png)
+
+
+![Dia 21 kép](images/03-adatvedelem/slide-21-008.png)
+
 - Jogos érdek, mint jogalap a Google street view szolgáltatás esetén: garanciális megoldások az érintettek személyes adatainak védelmére pl. az emberi arc és a rendszámtáblák elhomályosítása.
 
 ## Dia 22 — Alapelvek
@@ -199,11 +223,17 @@
 
 ## Dia 27
 
+
+![Dia 27 kép](images/03-adatvedelem/slide-27-009.jpg)
+
 - Európai Unió Bírósága C-131/12 “Google Spain” ügy
 - Egy újság online hozzáférhető, már nem aktuális személyes adatokat tartalmazó, 16 évvel korábban közzétett archív lapszámaira mutatnak a Google keresőjének találati linkjei.
 - A Google Spain, a Google Inc., a lengyel kormány, valamint a Bizottság e tekintetben arra hivatkozik, hogy csak azzal a feltétellel biztosít a jogszabály jogokat az érintettnek, hogy a szóban forgó adatkezelés ellentétes az irányelvvel, illetve az érintett sajátos helyzetére vonatkozó nyomós és jogszerű okból, nem pedig pusztán azért, mert az érintettek úgy vélik, hogy ezen adatkezelés folytán kár érheti őket, vagy mert azt kívánják, hogy az említett adatkezelés tárgyát képező adatok tárolását megszüntessék. A görög és az osztrák kormány szerint az érintettnek az érintett honlap szerkesztőjéhez kell fordulnia.
 
 ## Dia 28
+
+
+![Dia 28 kép](images/03-adatvedelem/slide-27-009.jpg)
 
 - C-131/12 “Google Spain” ügy
 - M. Costeja González, valamint a spanyol és az olasz kormány véleménye szerint az érintett tiltakozhat az ellen, hogy személyes adatait egy keresőmotor indexálja, ha adatainak az e keresőmotor közvetítésével való terjesztése kárt okoz a számára, és ha az említett adatok védelméhez, valamint a magánélet tiszteletben tartásához fűződő alapvető jogai, amelyek kiterjednek a tárolás megszüntetéséhez (az internet „felejtéséhez”) való jogra is, nagyobb súllyal esnek számításba, mint az említett keresőmotor működtetőjének jogos érdekei, illetve mint az információszabadsághoz fűződő általános érdek.
@@ -242,6 +272,9 @@
 
 ## Dia 33 — Adatbiztonság – 
 
+
+![Dia 33 kép](images/03-adatvedelem/slide-33-010.jpg)
+
 - Adatbiztonság – 32. cikk
 
 ## Dia 34 — Ír adatbiztonsági útmutatás
@@ -258,9 +291,15 @@
 - Használt eszközök lecserélése 		Fizikai biztonság
 - Emberi tényező 			Tanúsítványok
 
+![Dia 34 kép](images/03-adatvedelem/slide-34-011.png)
+
+
 ## Dia 35 — Ha valami balul sül el…
 
 - „adatvédelmi incidens”: a biztonság olyan sérülése, amely a továbbított, tárolt vagy más módon kezelt személyes adatok véletlen vagy jogellenes megsemmisítését, elvesztését, megváltoztatását, jogosulatlan közlését vagy az azokhoz való jogosulatlan hozzáférést eredményezi;
+
+![Dia 35 kép](images/03-adatvedelem/slide-35-012.jpg)
+
 
 ## Dia 36 — Bejelentés – 33. cikk
 
@@ -303,11 +342,17 @@
 - Nemzeti Adatvédelmi és Információszabadság Hatóság (NAIH)
 - A személyes adatok jogszerű kezelését hatósági szerv, a Nemzeti Adatvédelmi és Információszabadság Hatóság (NAIH) felügyeli, amely autonóm államigazgatási szerv, elnökét a miniszterelnök javaslatára a köztársasági elnök nevezi ki 9 évre.
 
+![Dia 40 kép](images/03-adatvedelem/slide-40-013.png)
+
+
 ## Dia 41 — Bărbulescu kontra Románia ügy (no. 61496/08)
 
 - A felperes, Mihai Bărbulescu, aki egy magánszemély és a Románia egy cégénél dolgozott, a munkahelyi levelezésével kapcsolatos adatkezelés miatt pert indított, miután a munkáltatója ellenőrizte a munkahelyi csevegőszolgáltatón keresztül folytatott kommunikációját, és a személyes üzeneteit felhasználta az elbocsátásának indokolására.
 - Bărbulescu panaszában arra hivatkozott, hogy a munkáltatója megsértette a magánélethez való jogát, amikor a munkahelyi üzeneteit nyomon követte és azokat bizonyítékként használta fel. A panaszos nem kapott megfelelő tájékoztatást a monitorozás mértékéről, jellegéről, hogy a munkáltató hozzáférhet-e az üzenetek tényleges tartalmához.
 - A munkáltató viszont arra hivatkozott, hogy a munkavállalók tudomásul vették a munkahelyi kommunikáció ellenőrzését, és hogy a munkahelyi érdekek védelme érdekében volt szükség az adatkezelésre. A belső szabályzat egyértelműen tiltja a magánjellegű internethasználatot.
+
+![Dia 41 kép](images/03-adatvedelem/slide-41-014.jpg)
+
 - A Bíróság végül kimondta, hogy történt jogsértés.
 - Kevésbé tolakodó módszer kellett volna az ellenőrzéshez.
 - Eseti tájékoztatás szükséges a megfigyelés mértékéről.

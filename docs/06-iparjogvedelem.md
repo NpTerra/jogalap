@@ -1,4 +1,4 @@
-# Szellemi tulajdonjogok - Iparjogvédelem20260327
+# 06-iparjogvedelem
 
 
 ## Dia 1 — Szellemi tulajdonjogok - Iparjogvédelem
@@ -12,10 +12,19 @@
 ## Dia 3 — A szerzői jog és az iparjogvédelem jellemzői
 
 
+![Dia 3 kép](images/06-iparjogvedelem/slide-03-001.png)
+
+
 ## Dia 4 — Milyen szellemi eredmények jelennek  meg ebben a tárgyban?
 
 
+![Dia 4 kép](images/06-iparjogvedelem/slide-04-002.jpg)
+
+
 ## Dia 5
+
+
+![Dia 5 kép](images/06-iparjogvedelem/slide-04-002.jpg)
 
 - VÉDJEGY
 - Megkülönböztetés mások  termékeitől vagy  szolgáltatásaitól  (márkanevek, betűk,  számok, logók,
@@ -35,11 +44,17 @@
 
 ## Dia 6 — Az előzőhöz képest?
 
+
+![Dia 6 kép](images/06-iparjogvedelem/slide-06-003.jpg)
+
 - SZOFTVER, ADATBÁZIS,
 - IPARMŰVÉSZETI ALKOTÁS 
 - SZERZŐI JOG
 
 ## Dia 7
+
+
+![Dia 7 kép](images/06-iparjogvedelem/slide-04-002.jpg)
 
 - VÉDJEGY
 - Megkülönböztetés mások  termékeitől vagy  szolgáltatásaitól  (márkanevek, betűk,  számok, logók,
@@ -63,7 +78,13 @@
 - Oltalmat kaphat: az új, feltalálói tevékenységen alapuló és iparilag
 - hasznosítható találmány.
 
+![Dia 8 kép](images/06-iparjogvedelem/slide-08-004.jpg)
+
+
 ## Dia 9
+
+
+![Dia 9 kép](images/06-iparjogvedelem/slide-09-005.jpg)
 
 
 ## Dia 10
@@ -88,6 +109,15 @@
 ## Dia 12
 
 
+![Dia 12 kép](images/06-iparjogvedelem/slide-12-006.png)
+
+
+![Dia 12 kép](images/06-iparjogvedelem/slide-12-006.png)
+
+
+![Dia 12 kép](images/06-iparjogvedelem/slide-12-007.png)
+
+
 ## Dia 13 — Feltalálói tevékenység és ipari  alkalmazhatóság
 
 - Feltalálói tevékenység
@@ -105,6 +135,9 @@
 - ▶B - ismert megoldás:  fűtőszálas szélvédő
 - ▶A + B - kombinálható-e?
 - fűtőszálas fürdőszobai  tükör
+
+![Dia 14 kép](images/06-iparjogvedelem/slide-14-008.jpg)
+
 
 ## Dia 15 — Feltalálói tevékenység
 
@@ -132,7 +165,13 @@
   - eredmény véletlenen
 - múlik (hibaszázalék lehet - pl. mikrochipek gyártása)
 
+![Dia 16 kép](images/06-iparjogvedelem/slide-16-009.png)
+
+
 ## Dia 17
+
+
+![Dia 17 kép](images/06-iparjogvedelem/slide-04-002.jpg)
 
 - VÉDJEGY
 - Megkülönböztetés mások  termékeitől vagy  szolgáltatásaitól  (márkanevek, betűk,  számok, logók,
@@ -156,6 +195,9 @@
 - vonatkozó	megoldás,	ha	új,	feltalálói	lépésen	alapul	és	iparilag
 - alkalmazható.  10 év
 
+![Dia 18 kép](images/06-iparjogvedelem/slide-18-010.png)
+
+
 ## Dia 19 — Használati mintaoltalom tárgya
 
 - Használatiminta-oltalomban (a továbbiakban: mintaoltalom) részesülhet  valamely tárgy kialakítása, szerkezete vagy részeinek elrendezése (a  továbbiakban: minta), ha új, feltalálói lépésen alapul és iparilag  alkalmazható.
@@ -175,6 +217,9 @@
 
 ## Dia 21
 
+
+![Dia 21 kép](images/06-iparjogvedelem/slide-04-002.jpg)
+
 - VÉDJEGY
 - Megkülönböztetés mások  termékeitől vagy  szolgáltatásaitól  (márkanevek, betűk,  számok, logók,
 - szimbólumok, szlogenek,  színek, hangok)
@@ -192,6 +237,9 @@
 - reklámanyagok, használati  útmutató.
 
 ## Dia 22 — Formatervezési mintaoltalom
+
+
+![Dia 22 kép](images/06-iparjogvedelem/slide-22-011.jpg)
 
 
 ## Dia 23 — Termék
@@ -215,6 +263,9 @@
 ## Dia 25
 
 
+![Dia 25 kép](images/06-iparjogvedelem/slide-25-012.jpg)
+
+
 ## Dia 26 — Kizáró okok
 
 - Nem részesülhet mintaoltalomban a külső jellegzetesség, amely kizárólag
@@ -231,6 +282,9 @@
 - MAXIMUM 25 ÉV
 
 ## Dia 28
+
+
+![Dia 28 kép](images/06-iparjogvedelem/slide-04-002.jpg)
 
 - VÉDJEGY
 - Megkülönböztetés mások  termékeitől vagy
@@ -252,13 +306,25 @@
 ## Dia 29 — 2023 legértékesebb márkái
 
 
+![Dia 29 kép](images/06-iparjogvedelem/slide-29-013.png)
+
+
 ## Dia 30
+
+
+![Dia 30 kép](images/06-iparjogvedelem/slide-30-014.jpg)
 
 
 ## Dia 31 — Miért van szükség a védjegyjogra?
 
 
+![Dia 31 kép](images/06-iparjogvedelem/slide-31-015.jpg)
+
+
 ## Dia 32
+
+
+![Dia 32 kép](images/06-iparjogvedelem/slide-32-016.jpg)
 
 
 ## Dia 33 — Védjegyoltalom
@@ -284,6 +350,9 @@
 - mintázat; valamint
 - többféle megjelölés összetétele.
 
+![Dia 34 kép](images/06-iparjogvedelem/slide-34-017.jpg)
+
+
 ## Dia 35 — Védjegyek ábrázolása
 
 - A grafikai ábrázolás követelményének eltörlésével (HU: 2019-től, EUIPO: 2017-től)
@@ -299,6 +368,18 @@
   - Mintázat megjelölés
 - az ábrázolási követelmények típusonként részletes meghatározást nyertek
 
+![Dia 35 kép](images/06-iparjogvedelem/slide-35-018.jpg)
+
+
+![Dia 35 kép](images/06-iparjogvedelem/slide-35-019.jpg)
+
+
+![Dia 35 kép](images/06-iparjogvedelem/slide-35-020.jpg)
+
+
+![Dia 35 kép](images/06-iparjogvedelem/slide-35-021.jpg)
+
+
 ## Dia 36 — Különleges védjegyek
 
 - Hang
@@ -313,6 +394,27 @@
 
 ## Dia 37 — A megkülönböztető  képesség hibái
 
+
+![Dia 37 kép](images/06-iparjogvedelem/slide-37-022.png)
+
+
+![Dia 37 kép](images/06-iparjogvedelem/slide-37-023.png)
+
+
+![Dia 37 kép](images/06-iparjogvedelem/slide-37-024.png)
+
+
+![Dia 37 kép](images/06-iparjogvedelem/slide-37-025.png)
+
+
+![Dia 37 kép](images/06-iparjogvedelem/slide-37-026.png)
+
+
+![Dia 37 kép](images/06-iparjogvedelem/slide-37-027.png)
+
+
+![Dia 37 kép](images/06-iparjogvedelem/slide-37-028.png)
+
 - kizárólag olyan jelekből vagy elemekből áll, amelyeket
 - az áru jellemzőjének (minősége, mennyisége, rendeltetése, értéke, földrajzi származása,  stb.) feltüntetésére használhatnak (CSOKI BOLT, GERINCJÓGA, FRÖCCSFESZTIVÁL), illetve
 - az általános nyelvhasználatban, vagy
@@ -325,7 +427,22 @@
 - kizárólag az áru olyan formájából vagy jellemzőjéből áll, amely
 - a célzott műszaki hatás eléréséhez szükséges (6. osztály)
 
+![Dia 37 kép](images/06-iparjogvedelem/slide-37-029.jpg)
+
+
+![Dia 37 kép](images/06-iparjogvedelem/slide-37-030.jpg)
+
+
+![Dia 37 kép](images/06-iparjogvedelem/slide-37-031.jpg)
+
+
 ## Dia 38
+
+
+![Dia 38 kép](images/06-iparjogvedelem/slide-38-032.png)
+
+
+![Dia 38 kép](images/06-iparjogvedelem/slide-38-033.png)
 
 
 ## Dia 39 — Kizárt megjelölések
@@ -356,4 +473,7 @@
 - A szellemi javak, oltalmak fontos részei a cég vagyonának –  forgalomképesség, apport lehetősége
 
 ## Dia 41 — Köszönöm a figyelmet!
+
+
+![Dia 41 kép](images/06-iparjogvedelem/slide-41-034.jpg)
 

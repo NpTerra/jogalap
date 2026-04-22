@@ -1,4 +1,4 @@
-# üzleti-működés-formái_jogi-alapismeretek
+# 04-uzleti-mukodes
 
 
 ## Dia 1 — Jogi alapismeretek
@@ -44,6 +44,9 @@
 ## Dia 6
 
 
+![Dia 6 kép](images/04-uzleti-mukodes/slide-06-001.png)
+
+
 **Előadói jegyzet:**
 > Egyéni vállalkozók számának folyamatos növekedése (világszintű tendencia)  coworking irodák számának ugrásszerű növekedése.
 > Minden nemzetgazdasági ágazatban nőtt az egyéni vállalkozók száma.
@@ -54,6 +57,9 @@
 ## Dia 7
 
 
+![Dia 7 kép](images/04-uzleti-mukodes/slide-07-002.png)
+
+
 ## Dia 8 — Egyéni vállalkozói tevékenység megkezdése
 
 - Az egyéni vállalkozói tevékenység megkezdésének feltétele, hogy
@@ -62,6 +68,9 @@
   - a hatósághoz (?)
   - az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény rendelkezéseinek megfelelő bejelentést tegyen
 - Az egyéni vállalkozókra külön törvény vonatkozik!
+
+![Dia 8 kép](images/04-uzleti-mukodes/slide-08-003.png)
+
 
 ## Dia 9 — Ki lehet egyéni vállalkozó?
 
@@ -90,16 +99,25 @@
 ## Dia 12
 
 
+![Dia 12 kép](images/04-uzleti-mukodes/slide-12-004.png)
+
+
 ## Dia 13 — bankszámlanyitás
 
 - Az áfa-körbe tartozó egyéni vállalkozónak erre dedikált belföldi pénzforgalmi bankszámlával kell rendelkeznie.
 - Nem áfa-körös e.v. akár lakossági bankszámlát is használhat – kedvezőbb feltételek, alacsonyabb költség.
+
+![Dia 13 kép](images/04-uzleti-mukodes/slide-13-005.jpg)
+
 
 ## Dia 14 — engedély
 
 - Ha valamely gazdasági tevékenység gyakorlását jogszabály hatósági engedélyhez köti, akkor az egyéni vállalkozó csak a szükséges engedély birtokában végezheti
 - -  engedély köteles tevékenységet az egyéni vállalkozási tevékenység megkezdését követően is lehet folytatni
 - -  az egyéni vállalkozó az adataira vonatkozóan előírt változásbejegyzés bejelentési kötelezettségének már az engedély kiadása iránti kérelem benyújtásával eleget tesz.
+
+![Dia 14 kép](images/04-uzleti-mukodes/slide-14-006.png)
+
 
 **Előadói jegyzet:**
 > Vadgazdálkodás, fakitermelés, bányászat, nemesfémgyártás, növényvédőszerkereskedelem
@@ -128,6 +146,9 @@
 - Az egyéni vállalkozói tevékenység minimum 1 hónapig és legfeljebb 3 évig szüneteltethető.
 - A tevékenység legkorábban a bejelentést követő naptól szünetelhet. A szünetelés kezdőnapja nem lehet korábbi a bejelentést követő napnál, és a bejelentés után nem módosítható.
 - Ha a vállalkozó a szünetelés kezdő napja után 3 éven belül nem jelenti be a tevékenység folytatását vagy megszüntetését, akkor a 3 év elteltét követő napon megszűnik az egyéni vállalkozói tevékenységre való jogosultsága, és a NAV a 3 év elteltét követő nappal törli az egyéni vállalkozók nyilvántartásából.
+
+![Dia 16 kép](images/04-uzleti-mukodes/slide-16-007.png)
+
 
 **Előadói jegyzet:**
 > A szünetelés bejelentése után, annak tartama alatt az egyéni vállalkozó
@@ -183,6 +204,12 @@
 ## Dia 20
 
 
+![Dia 20 kép](images/04-uzleti-mukodes/slide-20-008.png)
+
+
+![Dia 20 kép](images/04-uzleti-mukodes/slide-20-009.png)
+
+
 ## Dia 21 — Jogi személyek 
 
 - Jogi személyek  gazdasági társaságok
@@ -199,6 +226,12 @@
 > 3. az egyes gazdasági formákra pedig külön vannak még ezen felül rendelkezések a Polgári Törvénykönyvben
 
 ## Dia 22
+
+
+![Dia 22 kép](images/04-uzleti-mukodes/slide-22-010.png)
+
+
+![Dia 22 kép](images/04-uzleti-mukodes/slide-22-011.jpg)
 
 
 ## Dia 23 — Jogi személyek
@@ -221,6 +254,9 @@
 ## Dia 25
 
 
+![Dia 25 kép](images/04-uzleti-mukodes/slide-25-012.png)
+
+
 ## Dia 26 — formakényszer
 
 - Gazdasági társaság
@@ -241,6 +277,9 @@
 - Közkereseti társaság, betéti társaság és egyéni cég nem lehet gazdasági társaság korlátlanul felelős tagja.
 - Nyilvánosan működő részvénytársaság kivételével nem lehet gazdasági társaság tagja, aki eltiltás hatálya alatt áll.
 - A részvénytársaság tagjai a részvényesek.
+
+![Dia 27 kép](images/04-uzleti-mukodes/slide-27-013.png)
+
 
 ## Dia 28 — Gazdasági társaság alapítása
 
