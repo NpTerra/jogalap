@@ -6,10 +6,9 @@
 
 ![Dia 1 kép](images/07-e-kereskedelem/slide-01-001.png)
 
-- Dr. Bárány Viktória Fanny
-- barany.viktoria.fanny@gtk.bme.hu
+- Dr. Bárány Viktória Fanny barany.viktoria.fanny@gtk.bme.hu
 - BME Gazdaság- és Társadalomtudományi KarÜzleti Jog Tanszék
-- Elektronikus kereskedelem  DSA
+- Elektronikus kereskedelem DSA
 
 ## Dia 2
 
@@ -132,36 +131,33 @@
 - Alapnormák
 - 2001. évi
 - CVIII. tv.
-- az elektronikus kereskedelmi szolgáltatásokról és az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről  Ekertv.
+- az elektronikus kereskedelmi szolgáltatásokról és az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről Ekertv.
 - 2013. évi
 - V. tv.
-- a Polgári Törvénykönyvről - az általános szerződési, kötelmi és fogyasztói szerződési háttér  Ptk.
+- a Polgári Törvénykönyvről - az általános szerződési, kötelmi és fogyasztói szerződési háttér Ptk.
 - 1997. évi
 - CLV. tv.
-- a fogyasztóvédelemről - intézményi és jogérvényesítési háttér  Fgytv.
+- a fogyasztóvédelemről - intézményi és jogérvényesítési háttér Fgytv.
 - 2008. évi
 - XLVII. tv.
-- a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról  Fttv.
-- 45/2014.
-- (II.26.)
+- a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról Fttv.
+- 45/2014. (II.26.)
 - Korm. rend.
 - a fogyasztó és a vállalkozás közötti szerződések részletes szabályairól
-- 373/2021.
-- (VI.30.)
+- 373/2021. (VI.30.)
 - Korm. rend.
 - az áruk adásvételére, valamint a digitális tartalom és digitális szolgáltatások nyújtására irányuló B2C szerződések részletes szabályairól
 - Magyar fókusz az e-kereskedelmi tananyagban
 - Ekertv. - fogalmak, hatály, szolgáltatói adatszolgáltatás, elektronikus szerződéskötés, közvetítői felelősség, értesítési-eltávolítási eljárás. Ptk. és fogyasztóvédelmi normák - szerződési és teljesítési háttér.
 - Alapnormák és digitális piacszabályozás
-- 2000/31/EK
-- irányelv
-- az információs társadalommal összefüggő szolgáltatások, különösen az elektronikus kereskedelem egyes jogi vonatkozásairól  E-Commerce Directive
+- 2000/31/EK irányelv
+- az információs társadalommal összefüggő szolgáltatások, különösen az elektronikus kereskedelem egyes jogi vonatkozásairól E-Commerce Directive
 - (EU)
 - 2022/2065
-- a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról  DSA
+- a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról DSA
 - (EU)
 - 2022/1925
-- a digitális ágazat vonatkozásában a versengő és tisztességes piacokról  DMA
+- a digitális ágazat vonatkozásában a versengő és tisztességes piacokról DMA
 - Kapcsolódó uniós keret
 - (EU)
 - 910/2014
@@ -205,7 +201,7 @@
 
 ![Dia 14 kép](images/07-e-kereskedelem/slide-14-007.png)
 
-- Cél:  biztonságosabb digitális tér létrehozása, amelyben a digitális szolgáltatások valamennyi felhasználójának alapvető jogai védelemben részesülnek
+- Cél: biztonságosabb digitális tér létrehozása, amelyben a digitális szolgáltatások valamennyi felhasználójának alapvető jogai védelemben részesülnek
 
 ## Dia 15
 
@@ -225,10 +221,8 @@
 ## Dia 17
 
 - A DSA rendelet tárgyi hatálya
-- az EU 450 millió fogyasztójának több mint 10%-át elérő online óriásplatformok és nagyon népszerű online keresőprogramok (VLOP, VLOSE): kiemelt kockázatot jelentenek a jogellenes tartalmak terjesztése és társadalmi károkozás tekintetében.
-- az eladókat és fogyasztókat összefogó online platformok: online piacterek, alkalmazásáruházak, közösségi gazdasági platformok és közösségimédia-platformok.
-- Tárhelyszolgáltatások: felhőalapú számítástechnikai és webhosting szolgáltatások.
-- közvetítő szolgáltatások: internet-hozzáférési szolgáltatást nyújtó szolgáltatók, doménnév-regisztrátorok
+- az EU 450 millió fogyasztójának több mint 10%-át elérő online óriásplatformok és nagyon népszerű online keresőprogramok (VLOP, VLOSE): kiemelt kockázatot jelentenek a jogellenes tartalmak terjesztése és társadalmi károkozás tekintetében. az eladókat és fogyasztókat összefogó online platformok: online piacterek, alkalmazásáruházak, közösségi gazdasági platformok és közösségimédia-platformok.
+- Tárhelyszolgáltatások: felhőalapú számítástechnikai és webhosting szolgáltatások. közvetítő szolgáltatások: internet-hozzáférési szolgáltatást nyújtó szolgáltatók, doménnév-regisztrátorok
 
 ![Dia 17 kép](images/07-e-kereskedelem/slide-17-010.png)
 
@@ -255,7 +249,7 @@
 - A közvetítő szolgáltatók közös kötelezettségei
 - Információszolgáltatás hatósági határozat alapján: jogellenes tartalom elleni fellépéshez kapcsolódó határozat okán azonnali értesítési kötelezettség a hatóság felé a végrehajtott intézkedésről; vagy konkrét információ nyújtás
 - Kapcsolattartó pontok és jogi képviselők kijelölése: kapcsolattartó pont, amely lehetővé teszi a hatóságokkal folytatott közvetlen elektronikus kommunikációt. Azok a szolgáltatók amelyek nem rendelkeznek székhellyel az Unióban, de ott szolgáltatásokat kínálnak, ki kell jelölniük jogi képviselőnek egy természetes vagy jogi személyt az egyik olyan tagállamban, ahol a szolgáltatásaikat kínálják
-- Tájékoztatás a korlátozásokról a szerződéses feltételekben: a szolgáltatás igénybe vevője által megadott információkra vonatkozóan a szolgáltatásaik használatával kapcsolatban bevezetett korlátozásokról (például a tartalommoderálás, algoritmikus döntéshozatal, emberi felülvizsgálat szabályai).  Kiskorúak esetén számukra érthető módon.
+- Tájékoztatás a korlátozásokról a szerződéses feltételekben: a szolgáltatás igénybe vevője által megadott információkra vonatkozóan a szolgáltatásaik használatával kapcsolatban bevezetett korlátozásokról (például a tartalommoderálás, algoritmikus döntéshozatal, emberi felülvizsgálat szabályai). Kiskorúak esetén számukra érthető módon.
 - Éves átláthatósági jelentés közzététele: szolgáltatók legalább évente egyszer egyértelmű, könnyen érthető és részletes jelentést tesznek közzé az adott időszakban végzett tartalommoderálásról
 
 ## Dia 20
@@ -366,8 +360,8 @@
 
 ## Dia 24
 
-- You can simply impress your audience and add a unique zing and appeal to your Presentations. Easy to change colors, photos and Text. Get a modern PowerPoint  Presentation that is beautifully designed. You can simply impress your audience and add a unique zing and appeal to your Presentations.
-- Get a modern PowerPoint  Presentation that is beautifully designed.
+- You can simply impress your audience and add a unique zing and appeal to your Presentations. Easy to change colors, photos and Text. Get a modern PowerPoint Presentation that is beautifully designed. You can simply impress your audience and add a unique zing and appeal to your Presentations.
+- Get a modern PowerPoint Presentation that is beautifully designed.
 - Simple Portfolio
 - Presentation Designed
 - Illetékes hatóságok és joghatóság megválasztása
@@ -468,10 +462,7 @@
 - Az Ekertv. tárgyi hatálya
 - Információs társadalommal összefüggő szolgáltatás
 - Nem terjed ki olyan közlésekre, amelyet gazdasági, szakmai tevékenység vagy közfeladat körén kívül eső célból eljáró́ személy (fogyasztó́) tesz információs társadalommal összefüggő szolgáltatás igénybevételével
-- Pl.: chatszobában írott közlés,
-- a közösségi oldalon tett kommentek,
-- jogi iroda profilja a Facebookon,
-- esküvői videó feltöltése a YouTube-ra
+- Pl.: chatszobában írott közlés, a közösségi oldalon tett kommentek, jogi iroda profilja a Facebookon, esküvői videó feltöltése a YouTube-ra
 
 ## Dia 33
 
@@ -497,11 +488,7 @@
 - Elektronikus szerződéskötés
 - Az ÁSZF-et olyan módon kell hozzáférhetővé tenni, amely lehetővé teszi az igénybe vevő számára, hogy tárolja és előhívja azokat.
 - Szolgáltató tájékoztatási kötelezettsége:
-- Szerződéskötés technikai lépéseiről
-- szerződés írásba foglalt szerződésnek minősül-e, a szolgáltató iktatja-e a szerződést, illetve, hogy az iktatott szerződés utóbb hozzáférhető lesz-e
-- az adatbeviteli hibáknak a szerződéses nyilatkozat elküldését megelőzően történő azonosításához és kijavításához biztosított eszközök
-- a szerződéskötés lehetséges nyelveiről
-- a szolgáltatási tevékenységére vonatkozó magatartási kódexről
+- Szerződéskötés technikai lépéseiről szerződés írásba foglalt szerződésnek minősül-e, a szolgáltató iktatja-e a szerződést, illetve, hogy az iktatott szerződés utóbb hozzáférhető lesz-e az adatbeviteli hibáknak a szerződéses nyilatkozat elküldését megelőzően történő azonosításához és kijavításához biztosított eszközök a szerződéskötés lehetséges nyelveiről a szolgáltatási tevékenységére vonatkozó magatartási kódexről
 - A szolgáltató köteles az igénybe vevő megrendelésének megérkezését az igénybe vevő felé elektronikus úton haladéktalanul (max. 48 órán belül) visszaigazolni. Ha ez nem történik meg, mentesül az igénybe vevő mentesül az ajánlati kötöttség/szerződéses kötelezettség alól.
 
 ![Dia 35 kép](images/07-e-kereskedelem/slide-35-036.jpg)
@@ -512,9 +499,7 @@
 - Felelősségi kérdések
 - A szolgáltató felelős a szolgáltatásán keresztül hozzáférhetővé tett információért. Nem felel, ha nem tud a jogsértésről és felszólításra eltávolítja a jogsértő tartalmat.
 - Az egyszerű továbbítást nyújtó, a gyorsítótárazást nyújtó és a tárhelyszolgáltatást nyújtó szolgáltatóra további, a felelősségre és a felelősség alóli mentesülésre vonatkozó szabályokat a DSA rendelet (4-6. cikk) tartalmazza.
-- Az online keresőprogram szolgáltató akkor nem felel az általa nyújtott szolgáltatás keretében az információ hozzáférhetővé tételével okozott kárért, ha
-- a) nincs tudomása az információval kapcsolatos jogellenes magatartásról, vagy arról, hogy az információ bárkinek a jogát vagy jogos érdekét sérti;
-- b) amint az a) pontban foglaltakról tudomást szerzett, haladéktalanul intézkedik az elérési információ eltávolításáról vagy a hozzáférés megtiltásáról.
+- Az online keresőprogram szolgáltató akkor nem felel az általa nyújtott szolgáltatás keretében az információ hozzáférhetővé tételével okozott kárért, ha a) nincs tudomása az információval kapcsolatos jogellenes magatartásról, vagy arról, hogy az információ bárkinek a jogát vagy jogos érdekét sérti; b) amint az a) pontban foglaltakról tudomást szerzett, haladéktalanul intézkedik az elérési információ eltávolításáról vagy a hozzáférés megtiltásáról.
 
 ## Dia 37
 
@@ -524,7 +509,7 @@
 
 ## Dia 38
 
-- Az Eker. tv. 2014. január 1. óta biztosítja az eljárás igénybevételét a szerzői és szomszédos jogok sérelme, valamint védjegyjogi védelem alatt álló szellemi alkotások megsértése esetén. Az a jogosult, akinek a szerzői jogi törvény által védett szerzői művén, előadásán, hangfelvételén, műsorán, audiovizuális művén, adatbázisán fennálló jogát (szomszédos jog), továbbá a védjegyek és a földrajzi árujelzők oltalmáról szóló törvényben meghatározott, a védjegyoltalomból eredő kizárólagos jogát a szolgáltató által hozzáférhetővé tett információ – ide nem értve a hozzáférhetővé tett információ szabványosított címét (doménnév) – sérti, teljes bizonyító erejű magánokiratba, vagy közokiratba foglalt értesítésével felhívhatja a gyorsítótárolást nyújtó és a tárhelyszolgáltatót a szerzői, szomszédos jogát, vagy védjegyoltalomból fakadó jogát sértő tartalom eltávolítására. A törvény a szellemi alkotások jogán túl egy további jogsértés tekintetében is lehetővé teszi az értesítési-eltávolítási eljárás igénybevételét, éspedig a kiskorúak személyiségi jogát sértő, a szolgáltató által hozzáférhetővé tett tartalom tekintetében. Az eljárás célja elsősorban, hogy az ilyen jellegű, rövid időn belül jelentékeny kárt okozó jogellenes tartalmakat rövid időn belül el lehessen távolítani, a további jogsértést, és károkozást meg lehessen szüntetni.
+- Az Eker. tv. 2014. január 1. óta biztosítja az eljárás igénybevételét a szerzői és szomszédos jogok sérelme, valamint védjegyjogi védelem alatt álló szellemi alkotások megsértése esetén. Az a jogosult, akinek a szerzői jogi törvény által védett szerzői művén, előadásán, hangfelvételén, műsorán, audiovizuális művén, adatbázisán fennálló jogát (szomszédos jog), továbbá a védjegyek és a földrajzi árujelzők oltalmáról szóló törvényben meghatározott, a védjegyoltalomból eredő kizárólagos jogát a szolgáltató által hozzáférhetővé tett információ – ide nem értve a hozzáférhetővé tett információ szabványosított címét (doménnév) – sérti, teljes bizonyító erejű magánokiratba, vagy közokiratba foglalt értesítésével felhívhatja a gyorsítótárolást nyújtó és a tárhelyszolgáltatót a szerzői, szomszédos jogát, vagy védjegyoltalomból fakadó jogát sértő tartalom eltávolítására. A törvény a szellemi alkotások jogán túl egy további jogsértés tekintetében is lehetővé teszi az értesítési-eltávolítási eljárás igénybevételét, éspedig a kiskorúak személyiségi jogát sértő, a szolgáltató által hozzáférhetővé tett tartalom tekintetében. Az eljárás célja elsősorban, hogy az ilyen jellegű, rövid időn belül jelentékeny kárt okozó jogellenes tartalmakat rövid időn belül el lehessen távolítani, a további jogsértést, és károkozást meg lehessen szüntetni.
 - Értesítési-eltávolítási eljárás
 
 ## Dia 39
@@ -555,13 +540,7 @@
 ## Dia 42
 
 - Adatvédelem
-- A szolgáltató az információs társadalommal összefüggő szolgáltatás nyújtására irányuló
-- szerződés létrahozása,
-- tartalmának meghatározása, módosítása,
-- teljesítésének figyelemmel kísérése,
-- az ebből származó díjak számlázása,
-- valamint az azzal kapcsolatos követelmények érvényesítése céljából
-- kezelheti az igénybe veő azonosításához szükséges természetes személyazonosító adatokat és lakcímet.
+- A szolgáltató az információs társadalommal összefüggő szolgáltatás nyújtására irányuló szerződés létrahozása, tartalmának meghatározása, módosítása, teljesítésének figyelemmel kísérése, az ebből származó díjak számlázása, valamint az azzal kapcsolatos követelmények érvényesítése céljából kezelheti az igénybe veő azonosításához szükséges természetes személyazonosító adatokat és lakcímet.
 - Egyéb célból (pl. a szolgáltatás hatékonyságának növelése, hirdetés vagy egyéb tartalom eljuttatása, piackutatás) céljából csak a cél előzetes meghatározása mellett, az igénybe vevő hozzájárulása alapján kezelhet.
 - Biztosítani kell, hogy az igénybe vevő az adathasználatot bármikor megtilthassa.
 - Adatvédelem

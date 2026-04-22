@@ -32,6 +32,30 @@ def iter_pictures(shape):
         yield shape
 
 
+import re
+
+_WS_RE = re.compile(r"\s+")
+
+
+def _norm(txt):
+    return _WS_RE.sub(" ", txt).strip()
+
+
+_CONT_STARTS = set("()[],;„\"'«»–—…-")
+
+
+def _is_continuation(txt):
+    """Return True if txt looks like a wrapped continuation of the previous paragraph."""
+    if not txt:
+        return False
+    c = txt[0]
+    if c.islower():
+        return True
+    if c in _CONT_STARTS:
+        return True
+    return False
+
+
 def shape_items(shape):
     """Yield ordered items: ('p',lvl,txt), ('table',rows), ('img',pic_shape)."""
     if shape.shape_type == MSO_SHAPE_TYPE.GROUP:
@@ -47,7 +71,7 @@ def shape_items(shape):
         for row in tbl.rows:
             cells = []
             for cell in row.cells:
-                t = " ".join(p.text.strip() for p in cell.text_frame.paragraphs if p.text.strip())
+                t = " ".join(_norm(p.text) for p in cell.text_frame.paragraphs if p.text.strip())
                 cells.append(t.replace("|", "\\|"))
             rows.append(cells)
         if rows:
@@ -55,13 +79,23 @@ def shape_items(shape):
         return
     if not shape.has_text_frame:
         return
+
+    # First collect paragraphs, then merge wrapped continuations.
+    paras = []
     for para in shape.text_frame.paragraphs:
-        txt = "".join(run.text for run in para.runs).strip()
+        txt = "".join(run.text for run in para.runs)
         if not txt and para.text:
-            txt = para.text.strip()
+            txt = para.text
+        txt = _norm(txt)
         if not txt:
             continue
         lvl = para.level if para.level is not None else 0
+        if paras and paras[-1][0] == lvl and _is_continuation(txt):
+            paras[-1] = (lvl, paras[-1][1] + " " + txt)
+        else:
+            paras.append((lvl, txt))
+
+    for lvl, txt in paras:
         yield ("p", lvl, txt)
 
 

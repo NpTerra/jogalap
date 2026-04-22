@@ -4,9 +4,7 @@
 ## Dia 1 — Jogi alapismeretek
 
 - Jogi alapismeretek2026. március 13.üzleti működés formái
-- dr. Badacsonyi K. Tegza
-- egyetemi tanársegéd
-- badacsonyi.katalin.tegza@gtk.bme.hu
+- dr. Badacsonyi K. Tegza egyetemi tanársegéd badacsonyi.katalin.tegza@gtk.bme.hu
 - BME GTK Üzleti Jog Tanszék
 
 ## Dia 2 — Kik lehetnek a jog alanyai
@@ -33,13 +31,9 @@
 ## Dia 5 — Egyéni vállalkozó
 
 - Az egyéni vállalkozás
-  - az üzleti életben való részvétel egyik legegyszerűbb (jogi) formája
-  - előnye: alapításkor és működtetéskor egyszerű(sített)szabályok
-  - hátránya: korlátlan személyi (magánvagyonnal való) felelősség
+  - az üzleti életben való részvétel egyik legegyszerűbb (jogi) formája előnye: alapításkor és működtetéskor egyszerű(sített)szabályok hátránya: korlátlan személyi (magánvagyonnal való) felelősség
 - A vállalkozás, mint kényszer:
-  - a „számlaképes” vállalkozó után nem kell közterheket (TB) fizetnie a foglalkoztatónak
-  - polgári jogi szerződés alapján dolgozik (felelőssége nem munkajogi természetű)
-  - versenyeztethető más vállalkozókkal
+  - a „számlaképes” vállalkozó után nem kell közterheket (TB) fizetnie a foglalkoztatónak polgári jogi szerződés alapján dolgozik (felelőssége nem munkajogi természetű) versenyeztethető más vállalkozókkal
 
 ## Dia 6
 
@@ -63,10 +57,7 @@
 ## Dia 8 — Egyéni vállalkozói tevékenység megkezdése
 
 - Az egyéni vállalkozói tevékenység megkezdésének feltétele, hogy
-  - az erre irányuló szándékáról
-  - a természetes személy
-  - a hatósághoz (?)
-  - az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény rendelkezéseinek megfelelő bejelentést tegyen
+  - az erre irányuló szándékáról a természetes személy a hatósághoz (?) az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény rendelkezéseinek megfelelő bejelentést tegyen
 - Az egyéni vállalkozókra külön törvény vonatkozik!
 
 ![Dia 8 kép](images/04-uzleti-mukodes/slide-08-003.png)
@@ -74,10 +65,7 @@
 
 ## Dia 9 — Ki lehet egyéni vállalkozó?
 
-  - bármely természetes személy, aki
-  - nem társas együttműködési formában, mással együttműködve, de
-  - üzletszerűen, rendszeresen nyereség- és vagyonszerzés céljából,
-  - saját gazdasági kockázatvállalás mellett kíván gazdasági tevékenységet folytatni
+  - bármely természetes személy, aki nem társas együttműködési formában, mással együttműködve, de üzletszerűen, rendszeresen nyereség- és vagyonszerzés céljából, saját gazdasági kockázatvállalás mellett kíván gazdasági tevékenységet folytatni
 
 ## Dia 10 — Ki NEM lehet egyéni vállalkozó?
 
@@ -90,10 +78,7 @@
 
 ## Dia 11 — Az egyéni vállalkozó tevékenység megkezdése
 
-- A bejelentés megtétele:
-- az egyéni vállalkozói tevékenység bejelentését mind elektronikusan, mind személyesen lehet kezdeményezni
-- elektronikus út esetén a hatóság minden, a bejelentést személyesen kezdeményező és ügyfélkapuval még nem rendelkező ügyfél számára ingyenesen ügyfélkaput hoz létre
-- ha a bejelentő a bejelentési űrlapot nem megfelelően töltötte ki, erről a tényről automatikus visszajelzést kap.
+- A bejelentés megtétele: az egyéni vállalkozói tevékenység bejelentését mind elektronikusan, mind személyesen lehet kezdeményezni elektronikus út esetén a hatóság minden, a bejelentést személyesen kezdeményező és ügyfélkapuval még nem rendelkező ügyfél számára ingyenesen ügyfélkaput hoz létre ha a bejelentő a bejelentési űrlapot nem megfelelően töltötte ki, erről a tényről automatikus visszajelzést kap.
 - Az egyéni vállalkozói tevékenység megkezdésének bejelentése díj- és illetékmentes.
 
 ## Dia 12
@@ -112,9 +97,7 @@
 
 ## Dia 14 — engedély
 
-- Ha valamely gazdasági tevékenység gyakorlását jogszabály hatósági engedélyhez köti, akkor az egyéni vállalkozó csak a szükséges engedély birtokában végezheti
-- -  engedély köteles tevékenységet az egyéni vállalkozási tevékenység megkezdését követően is lehet folytatni
-- -  az egyéni vállalkozó az adataira vonatkozóan előírt változásbejegyzés bejelentési kötelezettségének már az engedély kiadása iránti kérelem benyújtásával eleget tesz.
+- Ha valamely gazdasági tevékenység gyakorlását jogszabály hatósági engedélyhez köti, akkor az egyéni vállalkozó csak a szükséges engedély birtokában végezheti - engedély köteles tevékenységet az egyéni vállalkozási tevékenység megkezdését követően is lehet folytatni - az egyéni vállalkozó az adataira vonatkozóan előírt változásbejegyzés bejelentési kötelezettségének már az engedély kiadása iránti kérelem benyújtásával eleget tesz.
 
 ![Dia 14 kép](images/04-uzleti-mukodes/slide-14-006.png)
 
@@ -125,9 +108,7 @@
 
 ## Dia 15 — képesítés
 
-- Képesítéshez kötött tevékenységet az egyéni vállalkozó csak akkor folytathatja:
-- - ha a jogszabályban meghatározott képesítéssel maga rendelkezik,
-- - vagy olyan személyesen közreműködő személyt foglalkoztat határozatlan időre, aki az előírt képesítéssel rendelkezik.
+- Képesítéshez kötött tevékenységet az egyéni vállalkozó csak akkor folytathatja: - ha a jogszabályban meghatározott képesítéssel maga rendelkezik, - vagy olyan személyesen közreműködő személyt foglalkoztat határozatlan időre, aki az előírt képesítéssel rendelkezik.
 
 **Előadói jegyzet:**
 > valamint található az interneten egy összeállítás a szakképesítéshez nem kötött vállalkozások jegyzékéről, de olyan hivatalos, nyilvános adatbázis nem érhető el, amelyik megmondaná az ÖVTJ számot választó vállalkozónak, hogy a választott tevékenységéhez van e szükség szakképzettségre, és amennyiben igen, úgy azt is, hogy milyen szakképesítés van számára előírva.
@@ -139,12 +120,10 @@
 
 - Ki szüneteltetheti?
 -  Aki egyéni vállalkozói tevékenységet folytat, azaz már működő egyéni vállalkozó.
-- Ügyintézés:
-- elektronikus úton, a Vállalkozói Ügysegéddel,
-- telefonon, a NAV Infóvonalán.
+- Ügyintézés: elektronikus úton, a Vállalkozói Ügysegéddel, telefonon, a NAV Infóvonalán.
 - A szüneteltetés bejelentése díj- és illetékmentes
 - Az egyéni vállalkozói tevékenység minimum 1 hónapig és legfeljebb 3 évig szüneteltethető.
-- A tevékenység legkorábban a bejelentést követő naptól szünetelhet. A szünetelés kezdőnapja nem lehet korábbi a bejelentést követő napnál, és a bejelentés után nem módosítható.
+- A tevékenység legkorábban a bejelentést követő naptól szünetelhet. A szünetelés kezdőnapja nem lehet korábbi a bejelentést követő napnál, és a bejelentés után nem módosítható.
 - Ha a vállalkozó a szünetelés kezdő napja után 3 éven belül nem jelenti be a tevékenység folytatását vagy megszüntetését, akkor a 3 év elteltét követő napon megszűnik az egyéni vállalkozói tevékenységre való jogosultsága, és a NAV a 3 év elteltét követő nappal törli az egyéni vállalkozók nyilvántartásából.
 
 ![Dia 16 kép](images/04-uzleti-mukodes/slide-16-007.png)
@@ -159,44 +138,27 @@
 
 ## Dia 17 — megszűnés
 
-- Az egyéni vállalkozói tevékenység megszűnik, ha
-- -  az egyéni vállalkozó bejelenti a tevékenysége megszüntetésének szándékát (elektronikusan lehet bejelenteni);
-- -  az egyéni vállalkozó halálával;
-- -  az egyéni vállalkozó cselekvőképességet korlátozó vagy kizáró gondokság alá kerül;
-- az adóhatóság törölte az egyéni vállalkozó adószámát
-- az egyéni vállalkozói tevékenységre egyéni céget alapított, vagy egyéni cég vagyoni betétjét átruházással megszerezte.
+- Az egyéni vállalkozói tevékenység megszűnik, ha - az egyéni vállalkozó bejelenti a tevékenysége megszüntetésének szándékát (elektronikusan lehet bejelenteni); - az egyéni vállalkozó halálával; - az egyéni vállalkozó cselekvőképességet korlátozó vagy kizáró gondokság alá kerül; az adóhatóság törölte az egyéni vállalkozó adószámát az egyéni vállalkozói tevékenységre egyéni céget alapított, vagy egyéni cég vagyoni betétjét átruházással megszerezte.
 
 ## Dia 18 — Egyéni cég
 
 - Az egyéni vállalkozói nyilvántartásban szereplő természetes személy egyéni céget alapíthat (a tevékenységét szüneteltető egyéni vállalkozónak a szünetelés időtartama alatt erre nincs lehetőósége!)
-- Az egyéni cég
-- - jogi személyiséggel nem rendelkező jogalany, amely
-- - a cégnyilvántartásba történő bejegyzéssel jön létre
-- - jogképes, cégneve alatt jogokat szerezhet és kötelezettségeket vállalhat, így különösen
-- ~ tulajdont szerezhet,	~ szerződést köthet,	~ pert indíthat és perelhető
+- Az egyéni cég - jogi személyiséggel nem rendelkező jogalany, amely - a cégnyilvántartásba történő bejegyzéssel jön létre - jogképes, cégneve alatt jogokat szerezhet és kötelezettségeket vállalhat, így különösen
+- ~ tulajdont szerezhet, ~ szerződést köthet, ~ pert indíthat és perelhető
 - Az egyéni cégnek kizárólag egy tagja (alapítója) lehet.
 - Egy természetes személy kizárólag egy egyéni cég tagja (alapítója) lehet
-- Az egyéni cég
-- - a cégnyilvántartásba történő bejegyzéssel, a bejegyzés napján jön létre,- a bejegyzés napját megelőzően nem kezdheti meg a működését.
+- Az egyéni cég - a cégnyilvántartásba történő bejegyzéssel, a bejegyzés napján jön létre,- a bejegyzés napját megelőzően nem kezdheti meg a működését.
 - DE: az az egyéni vállalkozó, aki szünetelteti a vállalkozói tevékenységét, a szünetelés ideje alatt nem alapíthat egyéni céget.
 
 ## Dia 19
 
 - Az egyéni cég megalapítása:
 - Nincs minimális tőkére vonatkozó előírás
-  - ha a jegyzett tőke összege (az az összeg, amellyel az egyéni céget alapítják) 200 000 Ft alatt van  a tőke csak pénzbeli hozzájárulásból állhat
-  - ha a jegyzett tőke összege meghaladja a 200 000 Ft-ot  a jegyzett tőke pénzbeli és nem pénzbeli (ún. apport) hozzájárulásból is állhat.
+  - ha a jegyzett tőke összege (az az összeg, amellyel az egyéni céget alapítják) 200 000 Ft alatt van  a tőke csak pénzbeli hozzájárulásból állhat ha a jegyzett tőke összege meghaladja a 200 000 Ft-ot  a jegyzett tőke pénzbeli és nem pénzbeli (ún. apport) hozzájárulásból is állhat.
 - Felelősség:
-  - ha az egyéni cég vagyona a követelést nem fedezi, a tag saját vagyonával korlátlanul felel
-  - egyéni cég és tagja nem lehet gazdasági társaságban korlátlanul felelős tag.
+  - ha az egyéni cég vagyona a követelést nem fedezi, a tag saját vagyonával korlátlanul felel egyéni cég és tagja nem lehet gazdasági társaságban korlátlanul felelős tag.
 - Az egyéni cég a Ptk. rendelkezéseinek megfelelő alkalmazásával gazdasági társasággá alakulhat át.
-- Az egyéni cég megszűnik, ha:
-- -  az alapító okiratban meghatározott időtartam eltelt vagy más megszűnési feltétel megvalósult,
-- -  elhatározza jogutód nélküli megszűnését,
-- -  elhatározza jogutódlással történő megszűnését (átalakulását),
-- -  a cégbíróság megszűntnek nyilvánítja,
-- -  a cégbíróság hivatalból elrendeli törlését,
-- -  a bíróság felszámolási eljárás során megszünteti.
+- Az egyéni cég megszűnik, ha: - az alapító okiratban meghatározott időtartam eltelt vagy más megszűnési feltétel megvalósult, - elhatározza jogutód nélküli megszűnését, - elhatározza jogutódlással történő megszűnését (átalakulását), - a cégbíróság megszűntnek nyilvánítja, - a cégbíróság hivatalból elrendeli törlését, - a bíróság felszámolási eljárás során megszünteti.
 
 **Előadói jegyzet:**
 > az egyéni céget bármilyen összeggel létre lehet hozni
@@ -236,10 +198,7 @@
 
 ## Dia 23 — Jogi személyek
 
-- - saját nevük alatt szerezhetnek jogokat és kötelezettségeket,
-- - kötelezettségeikért saját vagyonukkal állnak helyt - még ha a tagok vagy a tagok némelyike mögöttes felelősséggel tartozik is;
-- - a társaság szervezete mégsem kötődött a tagok személyéhez
-- - a tagok változása esetén is megőrzi a társaság saját elkülönült jogalanyiságát
+- - saját nevük alatt szerezhetnek jogokat és kötelezettségeket, - kötelezettségeikért saját vagyonukkal állnak helyt - még ha a tagok vagy a tagok némelyike mögöttes felelősséggel tartozik is; - a társaság szervezete mégsem kötődött a tagok személyéhez - a tagok változása esetén is megőrzi a társaság saját elkülönült jogalanyiságát
 
 ## Dia 24 — Gazdasági társaság
 
@@ -260,15 +219,9 @@
 ## Dia 26 — formakényszer
 
 - Gazdasági társaság
-  - közkereseti társaság,
-  - betéti társaság,
-  - korlátolt felelősségű társaság vagy
-  - részvénytársaság formájában alapítható.
+  - közkereseti társaság, betéti társaság, korlátolt felelősségű társaság vagy részvénytársaság formájában alapítható.
 - A gazdasági társaság nevében a gazdasági társaság formájára vonatkozó elnevezést vagy annak a Polgári Törvénykönyvben meghatározott rövidítését kell feltüntetni.
-  - közkereseti társaság: kkt.
-  - betéti társaság: bt.
-  - korlátolt felelősségű társaság: kft.
-  - részvénytársaság: rt.
+  - közkereseti társaság: kkt. betéti társaság: bt. korlátolt felelősségű társaság: kft. részvénytársaság: rt.
 
 ## Dia 27 — Társaság tagja
 
@@ -284,8 +237,7 @@
 ## Dia 28 — Gazdasági társaság alapítása
 
 - Létesítő okirattal + vagyoni hozzájárulás (/és apport)
-- Bírósági bejelentés (közjegyzői okiratba foglalásától vagy ügyvédi vagy kamarai jogtanácsosi ellenjegyzéstől számított 30 napon belül)  nyilvántartó bíróságnak (ha hatósági engedély kell: 15 nap az engedély kézhezvételétől)
-- előtársaság
+- Bírósági bejelentés (közjegyzői okiratba foglalásától vagy ügyvédi vagy kamarai jogtanácsosi ellenjegyzéstől számított 30 napon belül)  nyilvántartó bíróságnak (ha hatósági engedély kell: 15 nap az engedély kézhezvételétől) előtársaság
 
 ## Dia 29
 
@@ -311,8 +263,7 @@
 ## Dia 31 — Kkt. – legfőbb szerv
 
 - Legfőbb szerve: tagok gyűlése
-- 1 szavazat/tag (semmis a tagot szavazati jogától megfosztó rendelkezés)
-- határozathozatal: szótöbbséggel
+- 1 szavazat/tag (semmis a tagot szavazati jogától megfosztó rendelkezés) határozathozatal: szótöbbséggel
   - Vezető tisztségviselő visszahívása: háromnegyedes szótöbbség
   - Társasági szerződés módosítás: egyhangú
   - Átalakulás, egyesülés, szétválás, jogutód nélküli megszűnés: egyhangú
@@ -322,18 +273,14 @@
 - A közkereseti társaság ügyvezetését a tagok közül kijelölt vagy megválasztott egy vagy több ügyvezető látja el. Kijelölés vagy választás hiányában valamennyi tag ügyvezető.
 - Semmis a társasági szerződés olyan rendelkezése, amely ügyvezetővé olyan személyt jelöl ki, aki nem tagja a társaságnak, vagy lehetővé teszi ilyen személy ügyvezetővé választását.
 - Mindegyik ügyvezető önállóan eljárhat. (ügyvezető a másik ügyvezető tervezett vagy már megtett intézkedése ellen tiltakozhat  tagok gyűlése felülbírálhat)
-  - A társasági szerződés rendelkezhet úgy, hogy több ügyvezető együttesen jár el  ha az ügyvezetők között nincs egyetértés:  bármelyikük jogosult a tagok gyűlésének a döntését kérni.
-  - A halaszthatatlan intézkedéseket az ügyvezetők önállóan is megtehetik.  (DE: többi ügyvezetőt késedelem nélkül tájékoztatni kell)
+  - A társasági szerződés rendelkezhet úgy, hogy több ügyvezető együttesen jár el  ha az ügyvezetők között nincs egyetértés: bármelyikük jogosult a tagok gyűlésének a döntését kérni.
+  - A halaszthatatlan intézkedéseket az ügyvezetők önállóan is megtehetik. (DE: többi ügyvezetőt késedelem nélkül tájékoztatni kell)
 
 ## Dia 33 — KKT. - tagsági jogviszony megszűnésének esetei
 
 - A gazdasági társaságok közös szabályai között meghatározott esetek
 - +
-  - a tagok közös megegyezésével;
-  - a tag felmondásával;
-  - a társasági részesedés átruházásával;
-  - a tag halálával vagy megszűnésével; vagy
-  - a taggal szembeni kizáró ok bekövetkeztével.
+  - a tagok közös megegyezésével; a tag felmondásával; a társasági részesedés átruházásával; a tag halálával vagy megszűnésével; vagy a taggal szembeni kizáró ok bekövetkeztével.
 
 ## Dia 34 — KKT.  BT.
 
@@ -345,8 +292,7 @@
 
 - Jogi személy!
 - A betéti társaság (bt.) létesítésére irányuló társasági szerződés megkötésével a társaság tagjai arra vállalnak kötelezettséget, hogy a társaság gazdasági tevékenységének céljára a társaság részére vagyoni hozzájárulást teljesítenek, továbbá
-  - legalább az egyik tag (a továbbiakban: beltag) vállalja, hogy a társaságnak a társasági vagyon által nem fedezett kötelezettségeiért a többi beltaggal egyetemlegesen köteles helytállni,
-  - legalább egy másik tag (a továbbiakban: kültag) a társasági kötelezettségekért nem tartozik helytállási kötelezettséggel.
+  - legalább az egyik tag (a továbbiakban: beltag) vállalja, hogy a társaságnak a társasági vagyon által nem fedezett kötelezettségeiért a többi beltaggal egyetemlegesen köteles helytállni, legalább egy másik tag (a továbbiakban: kültag) a társasági kötelezettségekért nem tartozik helytállási kötelezettséggel.
   - Ha a társaság beltagja kültaggá válik: kültaggá válástól számított ötéves jogvesztő határidőn belül a beltagra vonatkozó rendelkezések szerint áll helyt a módosítást megelőzően keletkezett társasági tartozásokért.
   - Ha a társaságnak nem marad beltagja: az ezen időpont után keletkezett, a betéti társaságként való működés feltételeinek helyreállításáig vagy a társaság átalakulásának, egyesülésének, jogutód nélküli megszüntetésének elhatározásáig felmerült tartozásokért a kültag a beltagra vonatkozó rendelkezések szerint áll helyt.
 
@@ -395,18 +341,13 @@
 
 - Osztalék: a társaságnak a tag javára történő kifizetések céljából felosztható és a taggyűlés által felosztani rendelt saját tőkéjéből a törzsbetétek arányában meghatározott összeg  mértéke: a már teljesített vagyoni hozzájárulása arányában
 - Osztalékelőleg:
-  - közbenső mérleg alapján rendelkezik szükséges fedezettel,
-  - nem haladja meg a közbenső mérlegben kimutatott adózott eredménnyel kiegészített szabad eredménytartalék összegét; és
-  - a helyesbített saját tőkéje nem csökken a törzstőke összege alá
+  - közbenső mérleg alapján rendelkezik szükséges fedezettel, nem haladja meg a közbenső mérlegben kimutatott adózott eredménnyel kiegészített szabad eredménytartalék összegét; és a helyesbített saját tőkéje nem csökken a törzstőke összege alá
 
 ## Dia 42 — KFT. szervezete
 
 - Legfőbb szerv: taggyűlés
   - Kötelező összehívni ha:
-    - a társaság saját tőkéje veszteség folytán a törzstőke felére csökkent
-    - a társaság saját tőkéje a törzstőke törvényben meghatározott minimális összege alá csökkent
-    - a társaságot fizetésképtelenség fenyegeti vagy fizetéseit megszüntette; vagy
-    - ha vagyona tartozásait nem fedezi.
+    - a társaság saját tőkéje veszteség folytán a törzstőke felére csökkent a társaság saját tőkéje a törzstőke törvényben meghatározott minimális összege alá csökkent a társaságot fizetésképtelenség fenyegeti vagy fizetéseit megszüntette; vagy ha vagyona tartozásait nem fedezi.
 - Ügyvezetés: egy vagy több ügyvezető (önállóan jogosult eljárni, de másik ügyvezető tiltakozhat  taggyűlés bírálja el)
   - Feladataik: taggyűlés előkészítése, tagság képviselete, tagjegyzék vezetése, tagok tájékoztatása stb.
 
@@ -452,17 +393,9 @@
 
 ## Dia 47 — részvényfajták
 
-- törzsrészvény  olyan részvény, amely nem tartozik az elsőbbségi, a dolgozói, a kamatozó, a visszaváltható vagy az alapszabályban nevesített egyéb részvényfajtába
-- elsőbbségi részvény  más részvényfajtával szemben a részvényesnek meghatározott előnyt biztosít
-  - osztalékelsőbbség
-  - likvidációs hányadhoz fűződő elsőbbség (jogutód nélküli megszűnés esetén)
-  - szavazatelsőbbség
-  - vezető tisztségviselő vagy felügyelőbizottsági tag kijelölésére vonatkozó elsőbbség
-  - elővásárlási jog
-  - (a felsoroltak közül egyidejűleg több is lehet)
-- dolgozói részvény  részvénytársaságnál teljes vagy részmunkaidőben foglalkoztatott munkavállalók számára (ingyenes vagy névértéknél alacsonyabb áron)
-- kamatozó részvény  alapszabály által meghatározott mértékű kamat
-- visszaváltható részvény  részvénytársaságnak vételi joga van vagy a részvényesnek eladási joga, vagy a kettő egyszerre
+- törzsrészvény  olyan részvény, amely nem tartozik az elsőbbségi, a dolgozói, a kamatozó, a visszaváltható vagy az alapszabályban nevesített egyéb részvényfajtába elsőbbségi részvény  más részvényfajtával szemben a részvényesnek meghatározott előnyt biztosít
+  - osztalékelsőbbség likvidációs hányadhoz fűződő elsőbbség (jogutód nélküli megszűnés esetén) szavazatelsőbbség vezető tisztségviselő vagy felügyelőbizottsági tag kijelölésére vonatkozó elsőbbség elővásárlási jog (a felsoroltak közül egyidejűleg több is lehet)
+- dolgozói részvény  részvénytársaságnál teljes vagy részmunkaidőben foglalkoztatott munkavállalók számára (ingyenes vagy névértéknél alacsonyabb áron) kamatozó részvény  alapszabály által meghatározott mértékű kamat visszaváltható részvény  részvénytársaságnak vételi joga van vagy a részvényesnek eladási joga, vagy a kettő egyszerre
 
 ## Dia 48 — osztalék
 
@@ -473,11 +406,7 @@
 ## Dia 49 — Rt. szervezete
 
 - Legfőbb szerv: közgyűlés
-  - Kötelező összehívni, ha:
-  - saját tőkéje veszteség következtében az alaptőke kétharmadára csökkent,
-  - saját tőkéje az alaptőke törvényben meghatározott minimális összege alá csökkent
-  - fizetésképtelenség fenyegeti vagy fizetéseit megszüntette
-  - vagyona a tartozásait nem fedezi
+  - Kötelező összehívni, ha: saját tőkéje veszteség következtében az alaptőke kétharmadára csökkent, saját tőkéje az alaptőke törvényben meghatározott minimális összege alá csökkent fizetésképtelenség fenyegeti vagy fizetéseit megszüntette vagyona a tartozásait nem fedezi
 - Részvétel közgyűlésen: zrt. esetén a részvényes, részvényesi meghatalmazott, kit a közgyűlés megkezdéséig a részvénykönyvbe bejegyeztek
 - Ügyvezetés: igazgatóság (3 természetes személy  kevesebb nem lehet!)
   - Elnök: tagjai közül az igazgatóság választja
