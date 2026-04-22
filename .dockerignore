@@ -1,0 +1,10 @@
+.git
+.gitignore
+site
+ppt
+*.pptx
+.DS_Store
+__pycache__
+*.pyc
+.venv
+venv

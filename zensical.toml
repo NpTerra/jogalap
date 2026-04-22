@@ -1,0 +1,37 @@
+[project]
+site_name = "Jogi alapismeretek — VIK 2026 tavasz"
+site_description = "Előadás-jegyzetek a Jogi alapismeretek (BMEGT55A405) kurzushoz, a .pptx diákból kinyerve."
+site_author = "rosta.nandor"
+
+nav = [
+    { "Áttekintés" = "index.md" },
+    { "1. Bevezetés" = "01-bevezetes.md" },
+    { "2. Alapjogok" = "02-alapjogok.md" },
+    { "3. Adatvédelem" = "03-adatvedelem.md" },
+    { "4. Üzleti működés formái" = "04-uzleti-mukodes.md" },
+    { "5. Szerzői jog" = "05-szerzoi-jog.md" },
+    { "6. Iparjogvédelem" = "06-iparjogvedelem.md" },
+    { "7. E-kereskedelem" = "07-e-kereskedelem.md" },
+]
+
+[project.theme]
+language = "hu"
+features = [
+    "navigation.instant",
+    "navigation.top",
+    "navigation.tracking",
+    "navigation.footer",
+    "content.code.copy",
+    "search.highlight",
+    "toc.follow",
+]
+
+[[project.theme.palette]]
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Sötét módra váltás"
+
+[[project.theme.palette]]
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Világos módra váltás"
